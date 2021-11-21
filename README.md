@@ -30,3 +30,6 @@ Humidity Sensor ![](Images/Humidity%20Sensor.PNG)
 ### Ubidots Dashboard
 ![](Images/Ubidots.PNG)
 ![](Images/Ubidots%20Phone.PNG)
+
+### Notification
+![](Images/Gmail%20Notification.PNG)
